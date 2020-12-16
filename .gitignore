@@ -17,3 +17,6 @@ target/*
 # eclipse project files
 .classpath
 .project
+/target/
+/bin/
+/.settings
